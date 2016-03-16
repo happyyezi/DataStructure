@@ -10,7 +10,7 @@
 #include <queue>
 #include <stack>
 using namespace std;
-//freopen("/Users/Alina/ClionProjects/ForJob/input/tree","r",stdin);
+
 template <class T>class BinaryTree;
 template <class T>
 class BinaryTreeNode{
